@@ -1,0 +1,38 @@
+{
+  "slug": "lemon-io-delivery-site-3",
+  "kind": "service",
+  "name": "Lemon.io — delivery site",
+  "generatedAt": "2026-10-31T02:03:48.182Z",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 3061,
+      "sha256": "68209fd3d5df3f26e6cd540598f63191e225cfa85bfb934875ad3c3050e7ce50"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 3762,
+      "sha256": "8bab91e5fe6221ae8f34e319740b80a5d215a7d1ba6b8cb4071bb5059e620e64"
+    },
+    {
+      "path": "app.js",
+      "bytes": 796,
+      "sha256": "a4fa1ccab082dabb482ed655161519d6d6e833d5022340caf9a7e54b0d6d0919"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2788,
+      "sha256": "6e57d27fb57bf01c4a55c21f32fcfb988fa5633cf6ef0180051c2c809b4e3dc4"
+    },
+    {
+      "path": "contact.php",
+      "bytes": 1594,
+      "sha256": "09c3255a7a47f9ee7e78b05ca80adf00d423ad9288e827aedf1d27a967535eee"
+    },
+    {
+      "path": "research.md",
+      "bytes": 2574,
+      "sha256": "9f13479bde5faed85f9e8fa5e5193fca3512ec2829f765edb4b72b82dfddc347"
+    }
+  ]
+}
